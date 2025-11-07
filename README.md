@@ -14,4 +14,4 @@ Team member : M Nanthini
 
 Salesforce Instance: https://orgfarm-9c70735f05-dev-ed.develop.lightning.force.com/lightning/n/devedapp__Welcome
 
-Demo Vedio Link: https://drive.google.com/file/d/1iTEpWP6wKgoyeUTcqc3xL2nklhDR0APK/view?usp=drivesdk
+Demo Video Link: https://drive.google.com/file/d/1iTEpWP6wKgoyeUTcqc3xL2nklhDR0APK/view?usp=drivesdk
